@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model checkpoints
+*.pth
+*.pt
+cp/
+
+# Results and outputs
+results_h/
+results_dino/
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.venv/
+venv/
+env/
